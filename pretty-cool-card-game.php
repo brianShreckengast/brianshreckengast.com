@@ -24,7 +24,7 @@
 </head>
 <body>
 	<h1>A Pretty Cool Card Game</h1>
-	<form action ="card_game.php" method ="POST">
+	<form action ="pretty-cool-card_game.php" method ="POST">
 		<p>Enter the players' names, seperated by columns:</p>
 		<input type = "text" name ="playerNames" value ="Enter Names" width= 100>
 		<p>How many cards should I deal each round?</p>
